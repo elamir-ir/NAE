@@ -8,7 +8,7 @@
 # Features
 <ul>
   <li>Encryption/Decrytion</li>
-  <p>This application uses AES-256 as the encryption algorithm and encrypted files are given a <strong>.msh<strong> extention, the former extention is added before the <strong>.msh</strong> and after a <strong>@-@</strong> mark just as this photo: <img src="/resources/encrypted-file.png" alt="encrypted-file"></p>
+  <p>This application uses AES-256 as the encryption algorithm and encrypted files are given a <strong>.msh</strong> extention, the former extention is added before the <strong>.msh</strong> and after a <strong>@-@</strong> mark just as this photo: <img src="/resources/encrypted-file.png" alt="encrypted-file"></p>
   <li>Wiping out files/folders</li>
   <p>You can use this app to wipe out files with leaving minor trace on the hard drive from that file, this feature is brought to the app using <strong>sdelete</strong> command-line application.</p>
   <li>Locking folders</li>
