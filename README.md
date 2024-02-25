@@ -21,9 +21,9 @@
 </ol>
     
 ## Logging
-Proper live logging is integrated into the app and you can watch the apps actions as it takes them.
+<p>Proper live logging is integrated into the app and you can watch the apps actions as it takes them.</p>
 <img src="resources/logs.png">
 
 # Why is this app so bad?
-I looked like this when I wrote this app in 2015 :), and my primary OS was Windows 10 which I haven't used for a couple of years, refining the app heavily takes some time for me which includes the time I need to review my VB.NET knowledge too.
+<p>I looked like this when I wrote this app in 2015 :), and my primary OS was Windows 10 which I haven't used or programmed on for a couple of years, refining the app heavily takes some time for me which includes the time I need to review my VB.NET knowledge too.</p><p>P.S: Me explaining the app to the camera for highschool competition</p>
 <img src="resources/memories.png">
