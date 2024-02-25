@@ -1,6 +1,6 @@
 ## <div align="center"> ATTENTION: THIS PROJECT IS DISCONTINUED </div>
 <div align="center">
-	<a href="https://elamir.site/nae" target="_blank"><img src="resources/app-startup.png" alt="NAE logo" width="300"></a>
+	<img src="resources/app-startup.png" alt="NAE logo" width="300">
 	<br/>
 	<h1>NAE: Sata Security Application For Windows</h1>
 </div>
