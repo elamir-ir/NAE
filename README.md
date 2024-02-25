@@ -2,7 +2,7 @@
 <div align="center">
 	<img src="resources/app-startup.png" alt="NAE logo">
 	<br/>
-	<h1>NAE: Sata Security Application For Windows</h1>
+	<h1>NAE: Data Security Application For Windows</h1>
 </div>
 
 # Features
